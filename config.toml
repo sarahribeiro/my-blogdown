@@ -64,9 +64,11 @@ preserveTaxonomyNames = true
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+  anchor = "center"  # Anchor for cropping. Options include Smart and Center.
   
 [params]
   # add github edit https://bookdown.org/yihui/blogdown/templates.html
   GithubEdit = ""
   GithubSource = ""
+
+

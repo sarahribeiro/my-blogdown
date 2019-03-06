@@ -29,7 +29,7 @@ role: Statistical & Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: sarahribeirosilva@gmail.com
+  link: 'mailto:sarah.ribeirosilva@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sahribeiros
