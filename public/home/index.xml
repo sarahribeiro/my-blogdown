@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Sarah Ribeiro</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Sarah Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Sarah Ribeiro 2019</copyright>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,32 +21,7 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/home/hero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/hero/</guid>
-      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
-Build Anything with Widgets
-Star</description>
-    </item>
-    
-    <item>
-      <title>Demos</title>
-      <link>/home/demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/demo/</guid>
-      <description>Welcome to the personal demo of Academic. Other demos available include:
- Project Demo (Academic&amp;rsquo;s actual site)  Over 100,000 Amazing Websites have Already Been Built with Academic
-Join the Most Empowered Hugo Community
- This homepage section is an example of adding elements to the Blank widget.
-Backgrounds can be applied to any section. Here, the background option is set give an image parallax effect.
-  </description>
-    </item>
-    
-    <item>
-      <title>TESTE DE BIOGRAFIA</title>
+      <title>Background</title>
       <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -96,15 +72,6 @@ Backgrounds can be applied to any section. Here, the background option is set gi
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>/home/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/gallery/</guid>
-      <description>          </description>
     </item>
     
     <item>

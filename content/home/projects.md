@@ -7,8 +7,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Multivariate Statistics
+    tag: Multivariate Statistics
+  - name: R
+    tag: R
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Other
     tag: Demo
   filter_default: 0

@@ -1,7 +1,7 @@
 ---
 active: true
 author: admin
-title: TESTE DE BIOGRAFIA
+title: Background
 weight: 20
 widget: about
 ---

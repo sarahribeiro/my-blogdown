@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Academic</title>
+    <title>admin on Sarah Ribeiro</title>
     <link>/authors/admin/</link>
-    <description>Recent content in admin on Academic</description>
+    <description>Recent content in admin on Sarah Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Sarah Ribeiro 2019</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -39,8 +40,8 @@ Follow our easy step by step guide to learn how to build your own free website w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>Sarah Ribeiro is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Hello, I&amp;rsquo;m Sarah Ribeiro! I am a Statistical &amp;amp; Data Scientist at Sympla. I support the Data Intelligence team in developing and improving the product, generating insights through experimentation, dimensioning opportunities and analyzing data. You can get to know my experiences on my LinkedIn page better.
+I have a degree statistical in 2012 to UFMG, MBA in Business Management in 2015 and recently concludes a specialization in Data Science and Big Data at PUC-Minas.</description>
     </item>
     
   </channel>
